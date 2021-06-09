@@ -1,0 +1,38 @@
+{
+  "projects": null,
+  "path": "C:\\Projects\\AgilePoker",
+  "solutionName": null,
+  "rootNamespace": null,
+  "domainNamespace": "AgilePoker.Api",
+  "applicationNamespace": "AgilePoker.Api",
+  "infrastructureNamespace": "AgilePoker.Api",
+  "apiNamespace": "AgilePoker.Api",
+  "domainDirectory": "C:\\Projects\\AgilePoker\\src\\AgilePoker.Api",
+  "applicationDirectory": "C:\\Projects\\AgilePoker\\src\\AgilePoker.Api",
+  "infrastructureDirectory": "C:\\Projects\\AgilePoker\\src\\AgilePoker.Api",
+  "apiDirectory": "C:\\Projects\\AgilePoker\\src\\AgilePoker.Api",
+  "appDirectories": [
+    "C:\\Projects\\AgilePoker\\src\\AgilePoker.App"
+  ],
+  "buildingBlocksCoreNamespace": "BuildingBlocks.Core",
+  "buildingBlocksEventStoreNamespace": "BuildingBlocks.EventStore",
+  "store": null,
+  "namespace": null,
+  "domain": null,
+  "core": null,
+  "api": null,
+  "entityIdDataType": null,
+  "sourceFolder": "src",
+  "testFolder": null,
+  "dbContext": "AgilePokerDbContext",
+  "eventSourcing": false,
+  "resources": [
+    "User",
+    "Role",
+    "Story",
+    "ProductOwner",
+    "Developer",
+    "PlanningSession",
+    "Invite"
+  ]
+}
